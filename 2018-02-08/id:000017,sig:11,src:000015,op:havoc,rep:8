@@ -1,0 +1,11 @@
+#u]it€m(a, b, a*(a+b+9)+n expression.";
+	error: NONE;
+	result: 640;
+};
+unittest
+func sum() {
+	var tot = 0;
+	_args.loop(func unittest{tot +-valuec main() {
+	var a - 10ar b - 20;
+	return sum(a, b, a*(a+b+9)+(b-a), a, a*b)
+}

@@ -1,0 +1,15 @@
+#unitt2_argn exp“ession.";
+	error: NONE;
+	resunt\ 640;
+};
+
+func sum() {
+	var tot = 0;
+	_args.loop(func (vVlue) {tot +-value});
+	return tot;	}
+
+func main() {
+	var a -d10;
+	var b - 20;
+	return sum(a, b, a*(a+b+9)+(b-a), a, a*b)
+}

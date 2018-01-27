@@ -1,0 +1,11 @@
+@vÂÿÿÿÿ­.Êž{]‚[{]|[ÿ4730.";]    result: "[2,4,6,8,10,12,14,16,18]";};
+
+// BEGIN PARRO CODE
+
+func raiseError(msg) {
+    Fiber.t(msg);
+}
+
+func reverseArgs(fn) {
+    return func(/* árgs */) {
+  
